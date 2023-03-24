@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SRABAN98.
-- 👀 I’m interested in machine learning and data science.
+- 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning full stack data science & AI.
 - 💞️ I’m looking to collaborate on real time projects.
 - 📫 Reach me on my mail - srabankumarmalla1998@gmail.com
