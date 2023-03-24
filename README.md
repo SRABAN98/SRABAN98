@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning full stack data science & AI.
 - 💞️ I’m looking to collaborate on real time projects.
-- 📫 Reach me on my mail - srabankumarmalla1998@gmail.com
+- 📫 Reach out to me on my mail - srabankumarmalla1998@gmail.com
 
 <!---
 SRABAN98/SRABAN98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
